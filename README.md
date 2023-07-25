@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lazzieeCoder
-- 👀 I’m interested in MERN Stack
+- 👀 I’m interested in MERN,Frontend
 - 🌱 I’m currently Working MERN Stack 
 - 📫 How to reach me rupanrrc26@gmail.com
 
